@@ -134,10 +134,8 @@ int main(void)
 
 Ainsi, chaque seconde, le timer génère une interruption matérielle.
 
-<video src="./assets/05777b999f802268511730298e0bcefa.mp4" controls width="640">
-  Your browser does not support HTML5 video.
-</video>
 
+[click here to access the video](./assets/05777b999f802268511730298e0bcefa.mp4)
 
 ------
 
@@ -154,10 +152,7 @@ if (ms_count >= 5000) {
 
 De cette manière, on accumule **5000 interruptions** (soit 5000 ms = 5 secondes) avant d’incrémenter `g_sec_count`.
 
-<video src="./assets/05777b999f802268511730298e0bcefa.mp4" controls width="640">
-  Your browser does not support HTML5 video.
-</video>
-
+[click here to access the video](./assets/05777b999f802268511730298e0bcefa.mp4)
 
 ## Conclusion
 
