@@ -152,7 +152,7 @@ if (ms_count >= 5000) {
 
 De cette manière, on accumule **5000 interruptions** (soit 5000 ms = 5 secondes) avant d’incrémenter `g_sec_count`.
 
-[click here to access the video](./assets/05777b999f802268511730298e0bcefa.mp4)
+[click here to access the video](./assets/d42aab656525703171c3d33c3f05db39.mp4)
 
 ## Conclusion
 
